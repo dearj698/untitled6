@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled6.dir/data.c.obj"
+  "CMakeFiles/untitled6.dir/bst.c.obj"
   "untitled6.pdb"
   "untitled6.exe"
   "untitled6.exe.manifest"

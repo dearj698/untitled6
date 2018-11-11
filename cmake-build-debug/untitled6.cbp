@@ -76,6 +76,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/karen/CLionProjects/untitled6/bst.c">
+			<Option target="untitled6"/>
+		</Unit>
+		<Unit filename="C:/Users/karen/CLionProjects/untitled6/bst.h">
+			<Option target="untitled6"/>
+		</Unit>
 		<Unit filename="C:/Users/karen/CLionProjects/untitled6/data.c">
 			<Option target="untitled6"/>
 		</Unit>

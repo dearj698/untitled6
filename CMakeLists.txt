@@ -3,4 +3,4 @@ project(untitled6 C)
 
 set(CMAKE_C_STANDARD 90)
 
-add_executable(untitled6 data.c data.h)
+add_executable(untitled6 data.c data.h bst.h bst.c)

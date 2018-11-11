@@ -122,6 +122,33 @@ untitled6/fast:
 	$(MAKE) -f CMakeFiles\untitled6.dir\build.make CMakeFiles/untitled6.dir/build
 .PHONY : untitled6/fast
 
+bst.obj: bst.c.obj
+
+.PHONY : bst.obj
+
+# target to build an object file
+bst.c.obj:
+	$(MAKE) -f CMakeFiles\untitled6.dir\build.make CMakeFiles/untitled6.dir/bst.c.obj
+.PHONY : bst.c.obj
+
+bst.i: bst.c.i
+
+.PHONY : bst.i
+
+# target to preprocess a source file
+bst.c.i:
+	$(MAKE) -f CMakeFiles\untitled6.dir\build.make CMakeFiles/untitled6.dir/bst.c.i
+.PHONY : bst.c.i
+
+bst.s: bst.c.s
+
+.PHONY : bst.s
+
+# target to generate assembly for a file
+bst.c.s:
+	$(MAKE) -f CMakeFiles\untitled6.dir\build.make CMakeFiles/untitled6.dir/bst.c.s
+.PHONY : bst.c.s
+
 data.obj: data.c.obj
 
 .PHONY : data.obj
@@ -158,6 +185,9 @@ help:
 	@echo ... untitled6
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... bst.obj
+	@echo ... bst.i
+	@echo ... bst.s
 	@echo ... data.obj
 	@echo ... data.i
 	@echo ... data.s

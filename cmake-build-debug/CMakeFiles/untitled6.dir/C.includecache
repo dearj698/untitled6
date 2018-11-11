@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/karen/CLionProjects/untitled6/main.c
+C:/Users/karen/CLionProjects/untitled6/data.c
 stdio.h
 -
 string.h
 -
+data.h
+C:/Users/karen/CLionProjects/untitled6/data.h
+
+C:/Users/karen/CLionProjects/untitled6/data.h
 
