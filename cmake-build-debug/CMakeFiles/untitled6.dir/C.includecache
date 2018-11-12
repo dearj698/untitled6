@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/karen/CLionProjects/untitled6/data.c
+C:/Users/karen/CLionProjects/untitled6/bst.c
 stdio.h
 -
-string.h
+stdlib.h
 -
+bst.h
+C:/Users/karen/CLionProjects/untitled6/bst.h
+
+C:/Users/karen/CLionProjects/untitled6/bst.h
 data.h
 C:/Users/karen/CLionProjects/untitled6/data.h
 

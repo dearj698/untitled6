@@ -11,5 +11,7 @@ BStree bstree_ini(int size);
 void bstree_insert(BStree bst, Key *key, int data);
 void bstree_traversal(BStree bst);
 void bstree_free(BStree bst);
-
+void insert(BStree bst,Key *key, int data, int index);
+void inorder(BStree bst, int index);
+//int main();
 #endif //UNTITLED6_BST_H
